@@ -25,9 +25,11 @@ switched on and off independently.
 
 ## 快速开始 / Quick start
 
-1. 从 [Releases](../../releases) 或直接下载 `release/AutoClip.exe`
+1. 直接下载 **[AutoClip.exe](https://github.com/linxi202610/AutoClip/releases/latest/download/AutoClip.exe)**
 2. 双击运行 → 托盘出现图标
 3. 左键点托盘图标打开设置面板；右键是完整菜单
+
+> 中文详细说明：[AutoClip-readme-cn.txt](https://github.com/linxi202610/AutoClip/releases/latest/download/AutoClip-readme-cn.txt)
 
 ```
 托盘图标颜色      绿色 = 两个功能都开
