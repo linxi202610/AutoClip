@@ -1,0 +1,35 @@
+# Build and test objects
+src/*.o
+src/*.obj
+*.pdb
+*.ilk
+
+# Run-time artefacts produced next to the exe
+AutoClip.ini
+AutoClip.log
+e2e_out.txt
+logic_out.txt
+hook_diag*.txt
+icon_report.txt
+mkres_dbg.txt
+uia_diag.txt
+
+# Old scratch output from the first draft
+e2e_result.txt
+sim_done.txt
+
+# Local build helpers
+dist/
+
+# Editors / OS
+.vs/
+.vscode/
+Thumbs.db
+desktop.ini
+
+# Bundled compiler and icon scratch (download TCC separately)
+tools/tcc/
+tools/tcc.zip
+tools/*.ico
+tools/*.res
+tools/*.png
